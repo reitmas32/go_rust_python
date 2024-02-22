@@ -1,3 +1,12 @@
+# API Example
+
+Este repositorio contiene implementaciones de una API simple en Python, Go y Rust para comparar las diferentes formas de crear una API web en estos lenguajes de programación.
+
+## Funcionalidades
+Todas las implementaciones de la API proporcionan las siguientes funcionalidades:
+
+Endpoint GET /users/<id>: Devuelve la información de un usuario específico según su ID.
+
 ## Resultados
 
 100,000 request
